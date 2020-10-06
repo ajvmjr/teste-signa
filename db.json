@@ -1,0 +1,12 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "name": "Linsey Stroud",
+      "email": "lindsey.stroud@gmail.com",
+      "skills": ["html", "vue", "react", "angular"],
+      "date": "5 minutes ago",
+      "avatar": ""
+    }
+  ]
+}
